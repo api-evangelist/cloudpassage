@@ -1,0 +1,79 @@
+{
+    "name": "CloudPassage",
+    "description": "Automated Security & Compliance for Containers, DevOps, DevSecOps, & Workload Visibility",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1040-cloudpassage.jpg",
+    "tags": [
+        "api provider",
+        "api service provider",
+        "cloud",
+        "have api",
+        "shopping"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/cloudpassage\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "CloudPassage",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1040-cloudpassage.jpg",
+            "humanURL": "http:\/\/cloudpassage.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/cloudpassage-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.cloudpassage.com"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.feedburner.com\/CloudPassageBlog"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/cloudpassage"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/cloudpassage"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/cloudpassage.com\/product#api"
+        },
+        {
+            "type": "Email",
+            "url": "support@cloudpassage.com"
+        },
+        {
+            "type": "Email",
+            "url": "info@cloudpassage.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales@cloudpassage.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/cloudpassage"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/cloudpassage"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/cloudpassage.com\/"
+        }
+    ]
+}
